@@ -39,3 +39,29 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+
+# Missing VS specific artifacts
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.ipch
+
+# Build logs and recipes
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# Precompiled header files (specifically for MSVC)
+*.pch
+*.ipch
